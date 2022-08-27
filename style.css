@@ -1,0 +1,30 @@
+/* selettore {
+proprietà: valore;
+proprietà: valore;
+} :  */
+
+hr{
+  border-color: orange
+}
+
+header img{
+  border-radius: 50px;
+}
+
+main > h2{
+  color: red;
+}
+
+main > h3{
+  text-decoration: underline;
+}
+
+header{
+  background-color: lightgrey
+}
+
+header > span {
+  font-size: 40px;
+  color: red;
+  font-style: Times New Roman;
+}
